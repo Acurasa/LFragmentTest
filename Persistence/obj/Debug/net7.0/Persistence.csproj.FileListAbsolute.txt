@@ -1,0 +1,17 @@
+C:\Users\unxet\source\repos\Persistence\bin\Debug\net7.0\Persistence.deps.json
+C:\Users\unxet\source\repos\Persistence\bin\Debug\net7.0\Persistence.dll
+C:\Users\unxet\source\repos\Persistence\bin\Debug\net7.0\Persistence.pdb
+C:\Users\unxet\source\repos\Persistence\bin\Debug\net7.0\Application.dll
+C:\Users\unxet\source\repos\Persistence\bin\Debug\net7.0\Model.dll
+C:\Users\unxet\source\repos\Persistence\bin\Debug\net7.0\Application.pdb
+C:\Users\unxet\source\repos\Persistence\bin\Debug\net7.0\Model.pdb
+C:\Users\unxet\source\repos\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\unxet\source\repos\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unxet\source\repos\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\unxet\source\repos\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+C:\Users\unxet\source\repos\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\unxet\source\repos\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+C:\Users\unxet\source\repos\Persistence\obj\Debug\net7.0\Persistence.dll
+C:\Users\unxet\source\repos\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+C:\Users\unxet\source\repos\Persistence\obj\Debug\net7.0\Persistence.pdb
+C:\Users\unxet\source\repos\Persistence\obj\Debug\net7.0\ref\Persistence.dll
